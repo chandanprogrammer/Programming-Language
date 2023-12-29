@@ -1,0 +1,350 @@
+https://www.faceprep.in/c/c-programming-questions/
+The Preferred Approach For Above Listed C Programming Questions ---> 
+Understand and anylyse the problem, --> Go through the sample inputs and examples thoroughly, --> Break down the problem, --> Start solving/coding, --> Look back and learn from the mistakes...
+
+-------------------------------------------------------------
+Basic C Programs on Control Statements (Looping) & Recursion
+-------------------------------------------------------------
+
+###Easy
+-------
+
+1. Check Whether a Character is Vowel or Consonant
+
+2. Check whether the given character is an alphabet or not
+
+3. Program to find the ASCII value of a character
+
+4. Check whether a given character is upper case, lower case, number or special character
+
+5. Program to find whether a number is positive or negative
+
+6. Check whether the number is odd or even without using mod operator
+
+7. Program to Swap Two Numbers Without Using Third Variable
+
+8. Finding area of a circle in C, C++, Java and Python 
+
+9. Find LCM of two numbers in C, C++, Java and Python
+
+10. GCD of two numbers | Program to find the GCD or HCF of two numbers
+
+11. Find the largest among three numbers in C, C++, Java and Python
+
+12. Count Number of Digits in an Integer
+
+13. Program to Find the Sum of Digits of a Given Number
+
+14. Find the sum of natural numbers with and without recursion
+
+15. Program to find the sum of numbers in a given range
+
+16. Program to Reverse a Number in C, C++, Java and Python
+
+17. Factorial program in C, C++ and Java | Program to find the factorial of a number
+
+18. Fibonacci series upto n value in C, C++, Java and Python
+
+19. Leap year program in C, C++ and Java | Program to check if a given year is a leap year or not
+
+20. Check whether a given number is a prime or not | Prime number program in C, C++ and Java
+
+21. Check whether a number is PALINDROME or Not
+
+22. Check whether the number is armstrong or not 
+
+23. Program to check if a given number is a strong number or not 
+
+24. Check whether a given number is perfect number or not
+
+25. Program to find if the given numbers are Friendly pair or not (Amicable or not)
+
+26. Check whether a number is Automorphic number or not 
+
+27. Check whether a number is Harshad number or not (Niven number)
+
+28. Program to check whether a number is Abundant number or not
+
+29. Finding power of a number in C, C++, Java and python'
+
+30. Finding factors of a number in C, C++, Java and Python
+
+31. Add two fractions | Program to add two fractions and display their sum in reduced form
+
+#### Medium
+-----------
+
+1. Find prime numbers in a given range in C, C++, Java and Python
+
+2. Print the Armstrong numbers between two intervals
+
+3. Check whether a number can be expressed as a sum of two prime numbers
+
+4. Program to replace all 0's with 1 in a given integer
+
+5. Convert the given Binary Number into Decimal
+
+6. Convert a number from decimal to binary in C, C++, Java and Python
+
+7. Convert decimal to octal number in C, C++, Java and Python
+
+8. Convert a number from octal to decimal in C, C++, Java and Python
+
+9. Convert a number from binary to octal in C, C++, Java and Python
+
+10. Convert a number from octal to binary in C, C++, Java and Python
+
+11. Program to find the maximum number of handshakes | The Handshakes Problem
+
+12. Program to find the quadrant in which the given coordinates lie
+
+13. Number to words | Program to convert a given number to words
+
+14. Program to find the number of days in a given month of a given year
+
+15. Find all possible permutations in which 'n' people can occupy 'r' seats in a theater
+
+16. Find the number of times digit 3 occurs in each and every number from 0 to n
+
+17. Program to find the number of integers with exactly 9 divisors
+
+18. Finding all the roots of a quadratic equation in C, C++, Java and Python
+
+19. Find the possible number of decodings of a given digit sequence
+
+
+####Pattern printing programs
+-----------------------------
+
+1. Program to print solid and hollow rectangle star pattern
+
+2. Pyramid pattern using stars or Pyramid star patterns
+
+3. Pyramid pattern printing using numbers or Pyramid number patterns
+
+4. Palindrome pyramid pattern printing using numbers
+
+5. Diamond pattern printing using stars
+
+6. Diamond pattern printing using numbers
+
+7. Program to print Pascal's Triangle
+
+####Basic C Programs on Strings
+--------------------------------
+
+1. String operations in C, C++, Java and Python
+
+2. Find the Length of a String without Using strlen() Function
+
+3. Program to toggle each character in a string
+
+4. Find number of vowels in a character array
+
+5. Remove vowels from a string and return the string with consonants
+
+6. Check whether a string is PALINDROME or Not
+
+7. Program to sort a string in alphabetical order
+
+8. Remove brackets from an algebraic string/expression
+
+9. Remove all Characters in a String Except Alphabet
+
+10. Program to remove spaces from a string
+
+11. Find the sum of all numbers present in a string
+
+12. Capitalizing the first and last letter of each word in a Line
+
+13. Program to find the frequency of characters in a string
+
+14. Find the first non-repeating character in a string
+
+15. Check if Two Strings are anagrams or not
+
+16. Program to find all the patterns of 0(1+)0 in the given string 
+
+17. Program to Replace a Substring in a String
+
+18. Program to count the common sub sequence of two strings
+
+19. Program to reverse a string in C, C++, Java and Python
+
+20. Check if two strings match where one string contains wildcard characters
+
+
+###1-D Arrays
+-------------
+
+1. Program to insert, delete and search an element in an array
+
+2. Finding the Smallest and Largest Element in an Array
+
+3. Program to find the sum of elements of an array
+
+4. Program to check if two arrays are equal or not
+
+5. Program to find the array type (even, odd or mixed array) 
+
+6. Program to find the sum of perfect square elements in an array
+
+7. Program to find the second smallest element in an array 
+
+8. Sorting the elements of an array
+
+9. Program to reverse an array | Program to reverse the elements of an array
+
+10. Program to find the largest palindrome in an array
+
+11. Program to find non repeating element in an array (Unique elements)
+
+12. Program to find repeating element in an array (duplicate elements)
+
+13. Program to remove duplicate elements in an array
+
+14. Program to find the minimum scalar product of two vectors (dot product)
+
+15. Program to find the maximum scalar product of two vectors
+
+16. Program to check if all the numbers of an array can be made equal
+
+17. Find all the Missing Elements of a Range
+
+18. Find all Triplets with the given sum in the given array 
+
+19. Program to count the number of even and odd elements in an array
+
+20. Program to find the frequency of each element of an array 
+
+21. Program to find all symmetric pairs in an array
+
+22. Program to find the maximum product subarray in a given array
+
+23. Check if the given arrays are disjoint in C, C++, Java and Python
+
+24. Find if an array is a subset of another array in C, C++, Java and Python
+
+25. Program to check if all the numbers of an array can be made equal
+
+26. Finding the Sum of Minimum Absolute Difference of the given Array
+
+27. Sorting elements of an array by frequency
+
+28. Sort an Array According to the Order defined by Another array
+
+29. Replacing elements by its rank in the given array
+
+30. Find the Equilibrium Index of an Array
+
+31. Array rotation - Left and right
+
+32. Block swap algorithm for array rotation
+
+33. Juggling algorithm for array rotation
+
+34. Circular rotation of an array by K positions
+
+35. Array into Zigzag Fashion | Convert the given array into zigzag pattern
+
+36. Merge two sorted arrays | Program in C and C++
+
+37. Program to Find the Longest Subarray having average greater than or equal to k
+
+38. Rearrange positive and negative numbers in an array
+
+39. Sum of all Odd Frequency Elements in an Array
+
+40. Program to find the median of two sorted arrays
+
+41. 0-1 Knapsack problem
+
+###2-D Arrays
+-------------
+
+1. Program to perform matrix addition, matrix subtraction, matrix multiplication
+
+2. Program to find the transpose of a matrix in C, C++, Java and Python
+
+3. Program to find if the given matrix is upper triangular or not
+
+4. Program to find if the given matrix is lower triangular or not
+
+5. Program to find the minimum and maximum element in each row of a matrix
+
+6. Find the minimum and maximum element in each column of a matrix.
+
+7. Program to find sum of elements in each row and each column of the given matrix and print the greatest of the same
+
+8. Program to find the saddle point coordinates in a given matrix 
+
+9. Sum of elements in the Zigzag sequence in a given matrix
+
+10. Program to print the sum of boundary elements of a matrix
+
+11. Spiral Matrix Printing | Print the elements of a matrix in spiral form
+
+13. Rotate the matrix by K times
+
+14. Matrix rotation by 90 degrees clockwise and anticlockwise
+
+15. Maximum size of square submatrix with all 1s in a binary matrix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. 
